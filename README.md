@@ -1,8 +1,14 @@
-# React + Vite
+# ML Trascription & Translation Tool
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- built a transcription and translation web application that runs 2 machine learning models in the users browser for free with React.js, Huggingface.js & TailwindCSS. </br>
+DEMO: https://ml-free-scribe.vercel.app/
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Capture d’écran 2023-10-20 151100](https://github.com/raamlaa/free-scribe/assets/94558213/91f6f569-2c7c-48c0-9770-5aaac770dac6)
+
+
+
+
+
+
+
